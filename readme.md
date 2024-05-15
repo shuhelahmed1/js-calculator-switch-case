@@ -1,3 +1,5 @@
+[Click here to visit website](https://ahmed-calculator-2024.netlify.app)
+
 ## Programme Plan: 
 
 # HTML
@@ -11,3 +13,5 @@
 * Check if the input numbers are valid numbers using condition(if,else)
 * Run Switch Case to implement function on different cases 
 * Showing the result (result variable) on html using innerHTML
+
+
