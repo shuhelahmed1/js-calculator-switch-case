@@ -1,6 +1,6 @@
 # Simple Calculator Using Javascript Switch/Case, If/Else Conditon
 
-[Please Click Here to Visit Website](https://ahmed-calculator-2024.netlify.app)
+[Please Click Here to Use the Website](https://ahmed-calculator-2024.netlify.app)
 
 # Programme Plan: 
 
